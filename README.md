@@ -8,7 +8,7 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Vue],
+  learning : [React],
   interests: [web development]
 }
 
@@ -16,7 +16,7 @@ const skills =
 {
   languages :[Javascript, HTML, CSS],
   
-  frameworks:[Vue]
+  frameworks:[React]
 }
 ```
 
